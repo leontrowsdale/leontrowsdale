@@ -21,9 +21,9 @@ I'm a Mechatronic & Robotic Engineering student at the **University of Birmingha
 | Role | Company | Years |
 | :-- | :-- | --: |
 | **Engineering and Robotics Intern** | Dexory | `2026 — 2027` |
-| **Lead Junior Educational Manager** | MyEdSpace | `2026 — Now` |
+| **Lead Junior Educational Manager** | MyEdSpace | `2026` |
 | **Junior Educational Manager** | MyEdSpace | `2025 — 2026` |
-| **Technical Consultant** | Gillieron Scott Acoustic Design | `2023 — Now` |
+| **Technical Consultant** | Gillieron Scott Acoustic Design | `2023 — 2026` |
 | **Work Experience** | Cabinet Office | `2023` |
 
 <br>
